@@ -1,5 +1,0 @@
-https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false
-####
-https://newsdata.io/api/1/news?apikey=pub_30574154bb6841a16cc7be1629be3e34b50b&q=cryptocurrencies&language=en
-###
-https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=7&interval=daily
