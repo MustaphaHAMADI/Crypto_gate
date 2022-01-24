@@ -12,7 +12,7 @@ const News = () => {
   useEffect(() => {
     axios
       .get(
-        'https://newsdata.io/api/1/news?apikey=pub_30574154bb6841a16cc7be1629be3e34b50b&q=cryptocurrencies&language=en'
+        'https://newsdata.io/api/1/news?apikey=[YOUR_API_KEY]&q=cryptocurrencies&language=en'
       )
       .then((data) => {
         setTimeout(() => {
